@@ -13,7 +13,7 @@
 
 The goal here is to make it as simple and painless as possible to send emails.
 
-In the end, your code will look something like this:
+In the end,your code will look something like this:
 
 ```python
 import yagmail
